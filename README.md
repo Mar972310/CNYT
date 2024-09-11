@@ -1,6 +1,6 @@
 # Cuadernos de Jupyter
 
-Este repositorio contiene una colección de cuadernos de Jupyter relacionados con [tema del proyecto]. Los cuadernos cubren [descripción general de los contenidos], proporcionando ejemplos y análisis que pueden ser útiles para [descripción de la audiencia objetivo o propósito].
+Este repositorio contiene una colección de cuadernos de Jupyter relacionados con Complejos . Los cuadernos cubren las diferentes operaciones que puedo realizar con los números complejos, proporcionando ejemplos y análisis que pueden ser útiles.
 
 ## Contenidos
 
