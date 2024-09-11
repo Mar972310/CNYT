@@ -80,7 +80,7 @@ A continuación se presenta la sintaxis correcta para el uso de las operaciones 
 * __Producto tensor de dos vectores o matrices__: prod_tens_vec(_vector 1, vector 2_)
 
 ## Construido con
-* Phyton 3.12
+* Phyton 3.12.5
   
 ## Autor 
 __Maria Valentina Torres Monsalve__ 
